@@ -1,0 +1,192 @@
+{
+"id": "d3b748ba-292d-4261-8533-befd63a29ecd",
+"gender": "women",
+"items": [{
+     "id": "3868e665-7106-46d0-a8bb-82b1489d64ec",
+     "type": "banner",
+     "index": 0,
+     "title": "Spring 2020",
+     "html_description": "Valentino",
+     "cta": "SHOP TRUNKSHOW",
+     "section": "trunkshow",
+     "path": "trunkshows/10100",
+     "media": {
+         "id": "5c78f629-3d86-4c10-88eb-ea67b4a7ef5e",
+         "type": "image",
+         "src": "https://s3.amazonaws.com/assets.modaoperandi.com/mobile-content/dev/assets/iphone-app-ValentinoTS-women-100719.jpg"
+     },
+     "medias": [{
+         "id": "5c78f629-3d86-4c10-88eb-ea67b4a7ef5e",
+         "type": "image",
+         "src": "https://s3.amazonaws.com/assets.modaoperandi.com/mobile-content/dev/assets/iphone-app-ValentinoTS-women-100719.jpg"
+     },
+     {
+         "id": "f117cbc9-a21a-48b7-8cda-00a460c4587a",
+         "type": "image_large",
+         "src": "https://s3.amazonaws.com/assets.modaoperandi.com/mobile-content/dev/assets/ipad-app-ValentinoTS-women-100719.jpg"
+ }]
+    }, {
+      "id": "2bf6edf8-44c9-4860-8d44-5918f8214712",
+      "type": "list",
+      "index": 1,
+      "sections": [{
+         "id": "b3c7ac2a-6bc2-4c15-bcaa-11ed392cf1a6",
+         "type": "top",
+         "max_static": 0,
+         "max_rotating": 0,
+         "index": 0,
+         "items": [
+            {
+               "id": "dce51772-9594-471b-9118-3914a6f4b0b1",
+               "title":"Shoes for the New Season",
+               "isRotating": false,
+               "index": 0,
+               "cta":"SHOP SHOES",
+               "section":"shop",
+               "filters":"category=shoes"
+            },
+            {
+               "id": "1885e8d2-605c-494f-966f-ce70f4a1726f",
+               "title":"The Latest Handbags",
+               "index": 1,
+               "isRotating": false,
+               "cta":"SHOP BAGS",
+               "section":"shop",
+               "filters":"category=bags"
+            },
+            {
+               "id": "af0915ef-cc64-438b-9b1e-0ef970f84ad9",
+               "title":"Spectacular Fine Jewelry",
+               "index": 2,
+               "isRotating": false,
+               "cta":"SHOP FINE JEWELRY",
+               "section":"shop",
+               "filters":"category=fine_jewelry"
+            },
+            {
+               "id": "818bb0de-c89f-451e-9a5b-51467c6a89b8",
+               "title":"New Season, New Dresses",
+               "index": 3,
+               "isRotating": false,
+               "cta":"SHOP PANTS",
+               "section":"shop",
+               "filters":"category=clothing&subcategory=dresses&sort=recency"
+            },
+            {
+               "id": "818bb0de-c89f-451e-9a5b-51467c6a89b8",
+               "title":"Clothing for a Wardrobe Refresh",
+               "index": 4,
+               "isRotating": false,
+               "cta":"SHOP CLOTHING",
+               "section":"shop",
+               "filters":"category=clothing"
+            }]
+      }, {
+         "id": "b3c7ac2a-6bc9-4c15-bcaa-11ed392cf1a1",
+         "max_static": 0,
+         "max_rotating": 1,
+         "index": 1,
+         "type": "evergreen",
+         "items": [
+               {
+                  "id": "c2ece4c0-ed50-4866-816b-13fcea5ce139",
+                  "title":"10 Fine Jewelry Earrings to Covet",
+                  "index": 0,
+                  "isRotating": false,
+                  "cta":"SHOP FINE JEWELRY EARRINGS",
+                  "section":"shop",
+                  "filters":"category=fine_jewelry&subcategory=earrings"
+               },
+               {
+                  "id": "e9614870-5369-4a30-a763-d1bf2757c23d",
+                  "title":"10 (New) Dresses You'll Love",
+                  "index": 1,
+                  "isRotating": false,
+                  "cta":"SHOP DRESSES",
+                  "section":"new",
+                  "filters":"category=clothing&subcategory=Dresses"
+               },
+               {
+                  "id": "c4d5df56-2559-4f58-b8b4-6e3ad44f1cb4",
+                  "title":"10 Pieces From Johanna Ortiz We Love",
+                  "index": 2,
+                  "isRotating": false,
+                  "cta":"SHOP JOHANNA ORTIZ",
+                  "section":"shop",
+                  "filters":"category=clothing&designers[]=Johanna Ortiz"
+               },
+               {
+                  "id": "bd3c2095-b740-4670-a0b6-29b1b61d69c1",
+                  "title":"10 Editor's Picks From the Latest Trunkshows",
+                  "index": 3,
+                  "isRotating": false,
+                  "cta":"PREORDER NOW",
+                  "section":"shop",
+                  "filters":"category=clothing&availability[]=5"
+               },
+               {
+                  "id": "e6a18a17-68de-40d7-b6cf-57bc42cb2707",
+                  "title":"10 Hero Tops You Need",
+                  "index": 4,
+                  "isRotating": false,
+                  "cta":"SHOP TOPS",
+                  "section":"shop",
+                  "filters":"category=clothing&subcategory=Tops"
+               }
+            ]},
+            {
+               "id": "b3c7ac2a-6bc9-4c15-bcaa-11ed392cf1a1",
+               "max_static": 2,
+               "max_rotating": 1,
+               "index": 2,
+               "type": "featured",
+               "items": [{
+                        "id": "a5d634f4-f88d-4762-a187-4de31eea5d51",
+                        "title": "Shop What's New",
+                        "index": 0,
+                        "isRotating": false,
+                        "cta": "SHOP NOW",
+                        "section": "new",
+                        "filters": ""
+                     },
+                     {
+                        "id": "747470ea-89d1-47fe-9f1f-f4a78eda4556",
+                        "title": "Shop the Best of Trunkshow",
+                        "index": 1,
+                        "isRotating": false,
+                        "cta": "PREORDER NOW",
+                        "section": "new",
+                        "filters": "availability[]=5"
+                     },
+                     {
+                        "id": "2ba82328-4b63-4fef-beeb-37cf72743533",
+                        "title": "New Handbags from our Top Designers",
+                        "index": 2,
+                        "isRotating": false,
+                        "cta": "SHOP BAGS",
+                        "section": "new",
+                        "filters": "category=bags"
+                     },
+                     {
+                        "id": "cb4b4b94-a830-4f47-a428-35ffbd513ccd",
+                        "title": "Evening Dresses for Every Occassion",
+                        "index": 3,
+                        "isRotating": false,
+                        "cta": "SHOP EVENING DRESSES",
+                        "section": "shop",
+                        "filters": "category=clothing&subcategory=dresses&shop_attributes[]=evening-dresses"
+                     },
+                     {
+                        "id": "746e97b1-1f35-4d0f-8b0e-7777b23cef14",
+                        "title": "The Shoes To Buy Now",
+                        "index": 4,
+                        "isRotating": false,
+                        "cta": "SHOP SHOES",
+                        "section": "shop",
+                        "filters": "category=shoes"
+                     }
+               ]
+            }
+         ]
+      }
+   ]}

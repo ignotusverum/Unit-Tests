@@ -1,0 +1,8 @@
+{
+    "valid_emails": ["email@example.com", "firstname.lastname@example.com", "email@subdomain.example.com", "firstname+lastname@example.com", "vlad@mo.com"],
+    "invalid_emails": ["plainaddress", "#@%^%#$@#$@#.com", "", "@example.com", "Joe Smith <email@example.com>", "email.example.com", "just”not”right@example.com"],
+    "valid_passwords": ["1111111", "dolphin", "123456", "12345678", "letmein", "password"],
+    "invalid_passwords": ["1", "123", "", "qwe", "asdx", "!@#$"],
+    "valid_names": ["Emma", "Olivia", "Benjamin", "Alexander"],
+    "invalid_names": [" ", "    ", ""]
+}

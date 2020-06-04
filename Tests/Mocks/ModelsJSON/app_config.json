@@ -1,0 +1,13 @@
+{
+    "id": "4808f7b6-daf4-11e9-9d36-2a2ae2dbcce4",
+    "feeds": [{
+            "id": "4808fa36-daf4-11e9-9d36-2a2ae2dbcce4",
+            "type": "men",
+            "url": "https://s3.amazonaws.com/assets.modaoperandi.com/mobile-content/prod/feed-men-latest.json"
+        },
+        {
+            "id": "4808fe0a-daf4-11e9-9d36-2a2ae2dbcce4",
+            "type": "women",
+            "url": "https://s3.amazonaws.com/assets.modaoperandi.com/mobile-content/prod/feed-women-latest.json"
+        }]
+}
